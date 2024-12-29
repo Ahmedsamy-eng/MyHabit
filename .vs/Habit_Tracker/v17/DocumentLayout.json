@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\repo\\irepo\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:repo\\irepo\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\habit_tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:habit_tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\controllers\\habitcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:controllers\\habitcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\models\\entities\\user_reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:models\\entities\\user_reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\models\\entities\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:models\\entities\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\models\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:models\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\models\\entities\\habit_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:models\\entities\\habit_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|c:\\users\\ahmed.samy\\source\\repos\\habit_tracker\\migrations\\20241222074457_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C8B44-B591-4D31-8F21-CC4A7D4C8B53}|Habit_Tracker.csproj|solutionrelative:migrations\\20241222074457_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Repo\\IRepo\\IUser.cs",
+              "RelativeDocumentMoniker": "Repo\\IRepo\\IUser.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Repo\\IRepo\\IUser.cs",
+              "RelativeToolTip": "Repo\\IRepo\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:55:32.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Habit_Tracker",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Habit_Tracker.csproj",
+              "RelativeDocumentMoniker": "Habit_Tracker.csproj",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Habit_Tracker.csproj",
+              "RelativeToolTip": "Habit_Tracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T09:52:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:16:12.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reward.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\Reward.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Reward.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\Reward.cs",
+              "RelativeToolTip": "Models\\Entities\\Reward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:34:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T06:41:49.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:33:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:43:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User_Reward.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\User_Reward.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\User_Reward.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\User_Reward.cs",
+              "RelativeToolTip": "Models\\Entities\\User_Reward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:12:42.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabitController1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Controllers\\HabitController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\HabitController1.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Controllers\\HabitController1.cs",
+              "RelativeToolTip": "Controllers\\HabitController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:33:14.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:36:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241222074457_First.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Migrations\\20241222074457_First.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241222074457_First.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Migrations\\20241222074457_First.cs",
+              "RelativeToolTip": "Migrations\\20241222074457_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:44:57.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Habit_Category.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\Habit_Category.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Habit_Category.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\Habit_Category.cs",
+              "RelativeToolTip": "Models\\Entities\\Habit_Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:34:14.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Habit.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\Habit.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Habit.cs",
+              "ToolTip": "C:\\Users\\ahmed.samy\\source\\repos\\Habit_Tracker\\Models\\Entities\\Habit.cs",
+              "RelativeToolTip": "Models\\Entities\\Habit.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:33:57.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
